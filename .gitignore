@@ -1,8 +1,7 @@
-crawler
+/*
 
-.vscode
-mypy.ini
-assets_decompress
+!/.gitignore
+!/.github/
+!/README.md
 
-.python-version
-uv.lock
+!/assets/
