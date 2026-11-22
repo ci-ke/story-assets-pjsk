@@ -1,0 +1,1167 @@
+[
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1640880000000,
+    "episodes": [
+      {
+        "assetbundleName": "story_sp_ts_01_01",
+        "episodeNo": 1,
+        "id": 4,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [
+          1
+        ],
+        "scenarioId": "op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 2,
+        "title": "序章1"
+      },
+      {
+        "assetbundleName": "story_sp_ts_01_01",
+        "episodeNo": 2,
+        "id": 5,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [
+          1
+        ],
+        "scenarioId": "op_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 2,
+        "title": "序章2"
+      },
+      {
+        "assetbundleName": "story_sp_ts_01_01",
+        "episodeNo": 3,
+        "id": 6,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [
+          1
+        ],
+        "scenarioId": "op_02area",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 2,
+        "title": "区域对话"
+      },
+      {
+        "assetbundleName": "story_sp_ts_01_01",
+        "episodeNo": 4,
+        "id": 7,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "op_03",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 2,
+        "title": "序章3"
+      }
+    ],
+    "id": 2,
+    "startAt": 1609430400000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664121599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 8,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 3,
+        "title": "1周年跨年倒计时动画01"
+      }
+    ],
+    "id": 3,
+    "startAt": 1664035200000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664207999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 9,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 4,
+        "title": "1周年跨年倒计时动画02"
+      }
+    ],
+    "id": 4,
+    "startAt": 1664121600000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664294399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 10,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_03",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 5,
+        "title": "1周年跨年倒计时动画03"
+      }
+    ],
+    "id": 5,
+    "startAt": 1664208000000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664380799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 11,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_04",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 6,
+        "title": "1周年跨年倒计时动画04"
+      }
+    ],
+    "id": 6,
+    "startAt": 1664294400000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664467199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 12,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_05",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 7,
+        "title": "1周年跨年倒计时动画05"
+      }
+    ],
+    "id": 7,
+    "startAt": 1664380800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1664553599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_1st_countdown",
+        "episodeNo": 1,
+        "id": 13,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "1st_countdown_06",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 8,
+        "title": "1周年跨年倒计时动画06"
+      }
+    ],
+    "id": 8,
+    "startAt": 1664467200000
+  },
+  {
+    "assetbundleName": "collaboration-akuno-story",
+    "endAt": 1778860799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_akuno",
+        "episodeNo": 1,
+        "id": 14,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_akuno_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "specialStoryId": 9,
+        "title": "遷移測試用劇情_聯動的「世界」"
+      }
+    ],
+    "id": 9,
+    "startAt": 1777608000000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2022",
+    "endAt": 4078742399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2022",
+        "episodeNo": 1,
+        "id": 15,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2022_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 10,
+        "title": "愚人节2023前导动画"
+      }
+    ],
+    "id": 10,
+    "startAt": 1680278400000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2022",
+    "endAt": 4078742399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2022",
+        "episodeNo": 1,
+        "id": 16,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000001,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2022_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 11,
+        "title": "愚人节2023后日谈动画"
+      }
+    ],
+    "id": 11,
+    "startAt": 1680364800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1695657599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 19,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 14,
+        "title": "2周年跨年倒计时动画01"
+      }
+    ],
+    "id": 14,
+    "startAt": 1695571200000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1695743999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 20,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 15,
+        "title": "2周年跨年倒计时动画02"
+      }
+    ],
+    "id": 15,
+    "startAt": 1695657600000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1695830399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 21,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_03",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 16,
+        "title": "2周年跨年倒计时动画03"
+      }
+    ],
+    "id": 16,
+    "startAt": 1695744000000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1695916799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 22,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_04",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 17,
+        "title": "2周年跨年倒计时动画04"
+      }
+    ],
+    "id": 17,
+    "startAt": 1695830400000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1696003199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 23,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_05",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 18,
+        "title": "2周年跨年倒计时动画05"
+      }
+    ],
+    "id": 18,
+    "startAt": 1695916800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1696089599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_2nd_countdown",
+        "episodeNo": 1,
+        "id": 24,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "2nd_countdown_06",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 19,
+        "title": "2周年跨年倒计时动画06"
+      }
+    ],
+    "id": 19,
+    "startAt": 1696003200000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2024",
+    "endAt": 4078742399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2023",
+        "episodeNo": 1,
+        "id": 27,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2023_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 22,
+        "title": "愚人节2024前导动画"
+      }
+    ],
+    "id": 22,
+    "startAt": 1711900800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2024",
+    "endAt": 4078742399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2023",
+        "episodeNo": 1,
+        "id": 28,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000131,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2023_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 23,
+        "title": "愚人节2024后日谈动画"
+      }
+    ],
+    "id": 23,
+    "startAt": 1711987200000
+  },
+  {
+    "assetbundleName": "collaboration-akuno-story",
+    "endAt": 1700539199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_akuno",
+        "episodeNo": 1,
+        "id": 29,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_akuno_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 14,
+        "specialStoryId": 24,
+        "title": "[回响]恶之大罪系列前导动画"
+      }
+    ],
+    "id": 24,
+    "startAt": 1699329600000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1726934399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 33,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 28,
+        "title": "3周年跨年倒计时动画01"
+      }
+    ],
+    "id": 28,
+    "startAt": 1726848000000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727020799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 34,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 29,
+        "title": "3周年跨年倒计时动画02"
+      }
+    ],
+    "id": 29,
+    "startAt": 1726934400000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727107199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 35,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_03",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 30,
+        "title": "3周年跨年倒计时动画03"
+      }
+    ],
+    "id": 30,
+    "startAt": 1727020800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727193599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 36,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_04",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 31,
+        "title": "3周年跨年倒计时动画04"
+      }
+    ],
+    "id": 31,
+    "startAt": 1727107200000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727279999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 37,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_05",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 32,
+        "title": "3周年跨年倒计时动画05"
+      }
+    ],
+    "id": 32,
+    "startAt": 1727193600000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727366399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_countdown",
+        "episodeNo": 1,
+        "id": 38,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_countdown_06",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 33,
+        "title": "3周年跨年倒计时动画06"
+      }
+    ],
+    "id": 33,
+    "startAt": 1727280000000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1727711999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_3rd_anniversary",
+        "episodeNo": 1,
+        "id": 39,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "3rd_anniversary",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 34,
+        "title": "3周年动画"
+      }
+    ],
+    "id": 34,
+    "startAt": 1727625600000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1771603199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 41,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 36,
+        "title": "[初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章"
+      }
+    ],
+    "id": 36,
+    "startAt": 1770436800000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1771689599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 42,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 37,
+        "title": "[初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章"
+      }
+    ],
+    "id": 37,
+    "startAt": 1771603200000
+  },
+  {
+    "assetbundleName": "world_3900_anniversary_story",
+    "endAt": 1730303999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_world_3900_anniversary",
+        "episodeNo": 1,
+        "id": 43,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "world_3900_anniversary_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 38,
+        "title": "3900's感谢庆典动画"
+      }
+    ],
+    "id": 38,
+    "startAt": 1727711999000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2024",
+    "endAt": 1743523199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2024",
+        "episodeNo": 1,
+        "id": 44,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2024_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 23,
+        "specialStoryId": 39,
+        "title": "愚人节2025前导动画"
+      }
+    ],
+    "id": 39,
+    "startAt": 1743436800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2024",
+    "endAt": 1743609599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2024",
+        "episodeNo": 1,
+        "id": 45,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000236,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2024_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 40,
+        "title": "愚人节2025后日谈动画"
+      }
+    ],
+    "id": 40,
+    "startAt": 1743523200000
+  },
+  {
+    "assetbundleName": "connect-live-resonance-beats-story",
+    "endAt": 4085206199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_connect_live_resonance-beats",
+        "episodeNo": 1,
+        "id": 46,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "story_connect_live_resonance-beats_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 41,
+        "title": "连线演唱会 RESONANCE BEATS!! 演出前一天剧情"
+      }
+    ],
+    "id": 41,
+    "startAt": 4085092800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758556799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 47,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 42,
+        "title": "4周年跨年倒计时动画01"
+      }
+    ],
+    "id": 42,
+    "startAt": 1758470400000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758643199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 48,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 43,
+        "title": "4周年跨年倒计时动画02"
+      }
+    ],
+    "id": 43,
+    "startAt": 1758556800000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758729599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 49,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_03",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 44,
+        "title": "4周年跨年倒计时动画03"
+      }
+    ],
+    "id": 44,
+    "startAt": 1758643200000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758815999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 50,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_04",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 45,
+        "title": "4周年跨年倒计时动画04"
+      }
+    ],
+    "id": 45,
+    "startAt": 1758729600000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758902399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 51,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_05",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 46,
+        "title": "4周年跨年倒计时动画05"
+      }
+    ],
+    "id": 46,
+    "startAt": 1758816000000
+  },
+  {
+    "assetbundleName": "special-story",
+    "endAt": 1758988799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_4th_countdown",
+        "episodeNo": 1,
+        "id": 52,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "4th_countdown_06",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 47,
+        "title": "4周年跨年倒计时动画06"
+      }
+    ],
+    "id": 47,
+    "startAt": 1758902400000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1766930399000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 54,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 49,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章"
+      }
+    ],
+    "id": 49,
+    "startAt": 1766127600000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1767455999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 55,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 50,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章"
+      }
+    ],
+    "id": 50,
+    "startAt": 1766930400000
+  },
+  {
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "endAt": 1776772799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_wl_2nd_pre",
+        "episodeNo": 1,
+        "id": 57,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "wl_2nd_pre_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 52,
+        "title": "连接世界活动前日谈登录剧情"
+      }
+    ],
+    "id": 52,
+    "startAt": 1774843200000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2025",
+    "endAt": 1775059199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2025",
+        "episodeNo": 1,
+        "id": 58,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2025_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 53,
+        "title": "愚人节2026前导动画"
+      }
+    ],
+    "id": 53,
+    "startAt": 1774972800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2025",
+    "endAt": 1775145599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2025",
+        "episodeNo": 1,
+        "id": 59,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000300,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2025_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 54,
+        "title": "愚人节2026后日谈动画"
+      }
+    ],
+    "id": 54,
+    "startAt": 1775059200000
+  },
+  {
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "endAt": 1788105599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "episodeNo": 1,
+        "id": 61,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_tamagotchi_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 56,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章"
+      }
+    ],
+    "id": 56,
+    "startAt": 1786766400000
+  },
+  {
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "endAt": 1788191999000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "episodeNo": 1,
+        "id": 62,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_tamagotchi_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 57,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章"
+      }
+    ],
+    "id": 57,
+    "startAt": 1788105600000
+  },
+  {
+    "assetbundleName": "5th-anniversary-login-story",
+    "endAt": 1791475199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_5th_anniversary",
+        "episodeNo": 1,
+        "id": 63,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "story_5th_anniversary",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 58,
+        "title": "1.5周年登录剧情"
+      }
+    ],
+    "id": 58,
+    "startAt": 1790438400000
+  },
+  {
+    "assetbundleName": "5th-anniversary-special_login-message",
+    "endAt": 1793203199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_5th_anniversary_special_message",
+        "episodeNo": 1,
+        "id": 64,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [
+          134
+        ],
+        "scenarioId": "story_5th_anniversary_special_message",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 59,
+        "title": "1.5周年特别寄语前导登录剧情"
+      }
+    ],
+    "id": 59,
+    "startAt": 1791475200000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803052799000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 67,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_op_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 22,
+        "specialStoryId": 62,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章"
+      }
+    ],
+    "id": 62,
+    "startAt": 1801800000000
+  },
+  {
+    "assetbundleName": "collaboration-sanrio-story",
+    "endAt": 1803139199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_sanrio",
+        "episodeNo": 1,
+        "id": 68,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_sanrio_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 63,
+        "title": "[复刻][初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章"
+      }
+    ],
+    "id": 63,
+    "startAt": 1803052800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806595199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 69,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_01",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 28,
+        "specialStoryId": 64,
+        "title": "愚人节2027前导动画"
+      }
+    ],
+    "id": 64,
+    "startAt": 1806508800000
+  },
+  {
+    "assetbundleName": "aprilfool-story-2026",
+    "endAt": 1806681599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_aprilfool_2026",
+        "episodeNo": 1,
+        "id": 70,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "releaseConditionId": 1000400,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "aprilfool_2026_02",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 65,
+        "title": "愚人节2027后日谈动画"
+      }
+    ],
+    "id": 65,
+    "startAt": 1806595200000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1795363199000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 71,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_op_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 66,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章"
+      }
+    ],
+    "id": 66,
+    "startAt": 1794024000000
+  },
+  {
+    "assetbundleName": "collaboration-es-story",
+    "endAt": 1795449599000,
+    "episodes": [
+      {
+        "assetbundleName": "story_collaboration_es",
+        "episodeNo": 1,
+        "id": 72,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "releaseConditionId": 1,
+        "rewardResourceBoxIds": [],
+        "scenarioId": "collaboration_es_ed_01",
+        "specialStoryEpisodeType": "none",
+        "specialStoryId": 67,
+        "title": "[复刻][初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章"
+      }
+    ],
+    "id": 67,
+    "startAt": 1795363200000
+  }
+]
